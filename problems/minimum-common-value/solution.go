@@ -3,18 +3,16 @@ package main
 import "fmt"
 
 func getCommon(nums1 []int, nums2 []int) int {
-    m := make(map[int]int)
-
-    for _, r := range nums1 {
-        m[r]++
-    }
-    for _, r := range nums2 {
-        _, ok := m[r]
-        if ok {
-            return r
-        }
-    }
-
+	m := make(map[int]int)
+	for _, r := range nums1 {
+		m[r]++
+	}
+	for _, r := range nums2 {
+		_, ok := m[r]
+		if ok {
+			return r
+		}
+	}
 	return -1
 }
 
