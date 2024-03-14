@@ -10,6 +10,8 @@ In this repository, I'll be archiving my solutions to various coding and algorit
 
 3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/): [My solution here](./problems/palindrome-number/solution.go)
 
+4. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/): [My solution here](./problems/find-the-pivot-integer/solution.go)
+
 # Medium problems
 
 1. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/): [My solution here](./problems/integer-to-roman/solution.go)
