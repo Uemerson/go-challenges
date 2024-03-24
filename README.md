@@ -19,3 +19,5 @@ In this repository, I'll be archiving my solutions to various coding and algorit
 1. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/): [My solution here](./problems/integer-to-roman/solution.go)
 
 2. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/): [My solution here](./problems/merge-In-between-linked-lists/solution.go)
+
+3. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/): [My solution here](./problems/find-the-duplicate-number/solution.go)
