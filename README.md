@@ -21,3 +21,7 @@ In this repository, I'll be archiving my solutions to various coding and algorit
 2. [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/): [My solution here](./problems/merge-In-between-linked-lists/solution.go)
 
 3. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/): [My solution here](./problems/find-the-duplicate-number/solution.go)
+
+# Hard
+
+1. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/): [My solution here](./problems/)
