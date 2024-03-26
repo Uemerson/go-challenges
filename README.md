@@ -22,6 +22,6 @@ In this repository, I'll be archiving my solutions to various coding and algorit
 
 3. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/): [My solution here](./problems/medium/find-the-duplicate-number/solution.go)
 
-# Hard
+# Hard problems
 
-1. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/): [My solution here](./problems/)
+1. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/): [My solution here](./problems/hard/first-missing-positive/solution.go)
