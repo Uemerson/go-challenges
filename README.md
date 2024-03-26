@@ -4,15 +4,15 @@ In this repository, I'll be archiving my solutions to various coding and algorit
 
 # Easy problems
 
-1. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/): [My solution here](./problems/first-unique-character-in-a-string/solution.go)
+1. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/): [My solution here](./problems/easy/first-unique-character-in-a-string/solution.go)
 
-2. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/): [My solution here](./problems/minimum-common-value/solution.go)
+2. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/): [My solution here](./problems/easy/minimum-common-value/solution.go)
 
-3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/): [My solution here](./problems/palindrome-number/solution.go)
+3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/): [My solution here](./problems/easy/palindrome-number/solution.go)
 
-4. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/): [My solution here](./problems/find-the-pivot-integer/solution.go)
+4. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/): [My solution here](./problems/easy/find-the-pivot-integer/solution.go)
 
-5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/): [My solution here](./problems/palindrome-linked-list/solution.go)
+5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/): [My solution here](./problems/easy/palindrome-linked-list/solution.go)
 
 # Medium problems
 
