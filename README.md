@@ -14,6 +14,8 @@ In this repository, I'll be archiving my solutions to various coding and algorit
 
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/): [My solution here](./problems/easy/palindrome-linked-list/solution.go)
 
+6. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/): [My solution here](./problems/easy/island-perimeter/solution.go)
+
 # Medium problems
 
 1. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/): [My solution here](./problems/medium/integer-to-roman/solution.go)
